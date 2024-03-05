@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to my personal website!",
+    "section": "",
+    "text": "I am a fourth year PhD student at the Oskar Morgenstern Doctoral School at the University of Vienna. Before coming to Vienna, I completed the Advanced Studies Program (ASP) at the Institute for the World Economy (IfW) in Kiel. I received my Master’s degree from the Karl-Franzens University of Graz.\nIn my research, I am mainly interested in topics at the intersection of Macroeconomics and Monetary Economics, especially issues related to negative interest rates, the transmission of monetary policy and CBDC.\n\n\n\n\nPhD in Economics, University of Vienna (Oskar Morgenstern Doctoral School) | 2020 - present\nAdvanced Studies Program (ASP) at the Institute for the World Economy (IfW) | 2019 - 2020\nMSc. in Economics, Karl-Franzens University of Graz | 2017 - 2019\nB.A. in Economics, Karl-Franzens University of Graz | 2013 - 2017\n\n\n\n\n\nWorking Papers\n\n“The Zero Lower Bound on Household Deposit Rates: Not As Binding As We Thought”\nPreliminary Draft |  Abstract  \n\n\nI present novel evidence on the prevalence of negative household deposit rates, which challenges the notion of their perceived zero lower bound. Between May 2019 and April 2022, a total of 483 German banks introduced negative interest rates on household deposits. I study the effects of the adoption of these negative rates on banks’ balance sheet positions and their role for the transmission of monetary policy by conducting a staggered difference-in-differences analysis. For this purpose, I compile a novel dataset, which is merged with official data from the Research Data and Service Centre of the German Bundesbank. Household deposits are reduced by up to 3% within twelve months after the introduction of negative household deposit rates. Additionally, credit creation is positively affected, which serves as evidence for an operative bank lending channel of monetary policy under negative household deposit rates. Thus far, this channel has been regarded as muted due to the perceived zero lower bound of household deposit rates.\n\n\n\nWork in Progress\n\n“Optimal Tiered Reserve Remuneration”\nPoster\n“The Demand for CBDC and the Role of the Government” (with Paul Pichler)\n\n\n\n\n\nUniversity of Vienna \n\nLecturer: UE Applied Macroeconomics (MA) | 2021 - 2023\n\nUniversity of Graz \n\nTeaching Assistant: Introduction to Economics (BA) | 2015 - 2019\n\n\n\n\n\nUniversity of Vienna\nOskar Morgenstern Doctorate School\nOskar-Morgenstern-Platz 1\n1090 Vienna\nAustria\nphilipp.ulbing@univie.ac.at"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Welcome to my personal website!",
+    "section": "",
+    "text": "PhD in Economics, University of Vienna (Oskar Morgenstern Doctoral School) | 2020 - present\nAdvanced Studies Program (ASP) at the Institute for the World Economy (IfW) | 2019 - 2020\nMSc. in Economics, Karl-Franzens University of Graz | 2017 - 2019\nB.A. in Economics, Karl-Franzens University of Graz | 2013 - 2017"
+  },
+  {
+    "objectID": "index.html#research",
+    "href": "index.html#research",
+    "title": "Welcome to my personal website!",
+    "section": "",
+    "text": "Working Papers\n\n“The Zero Lower Bound on Household Deposit Rates: Not As Binding As We Thought”\nPreliminary Draft |  Abstract  \n\n\nI present novel evidence on the prevalence of negative household deposit rates, which challenges the notion of their perceived zero lower bound. Between May 2019 and April 2022, a total of 483 German banks introduced negative interest rates on household deposits. I study the effects of the adoption of these negative rates on banks’ balance sheet positions and their role for the transmission of monetary policy by conducting a staggered difference-in-differences analysis. For this purpose, I compile a novel dataset, which is merged with official data from the Research Data and Service Centre of the German Bundesbank. Household deposits are reduced by up to 3% within twelve months after the introduction of negative household deposit rates. Additionally, credit creation is positively affected, which serves as evidence for an operative bank lending channel of monetary policy under negative household deposit rates. Thus far, this channel has been regarded as muted due to the perceived zero lower bound of household deposit rates.\n\n\n\nWork in Progress\n\n“Optimal Tiered Reserve Remuneration”\nPoster\n“The Demand for CBDC and the Role of the Government” (with Paul Pichler)"
+  },
+  {
+    "objectID": "index.html#teaching",
+    "href": "index.html#teaching",
+    "title": "Welcome to my personal website!",
+    "section": "",
+    "text": "University of Vienna \n\nLecturer: UE Applied Macroeconomics (MA) | 2021 - 2023\n\nUniversity of Graz \n\nTeaching Assistant: Introduction to Economics (BA) | 2015 - 2019"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Welcome to my personal website!",
+    "section": "",
+    "text": "University of Vienna\nOskar Morgenstern Doctorate School\nOskar-Morgenstern-Platz 1\n1090 Vienna\nAustria\nphilipp.ulbing@univie.ac.at"
+  },
+  {
+    "objectID": "posts/RETT/index.html",
+    "href": "posts/RETT/index.html",
+    "title": "The Real Estate Transfer Tax and Financial Constraints",
+    "section": "",
+    "text": "In Germany, households tend to maintain their house size as they age, even when faced with financial constraints. This reluctance to adjust might be attributed to the high transfer taxes imposed on real estate, which in turn limit the liquidity of the real estate market. My project aims to delve into the shifts in consumption behavior, particularly during retirement, by examining the impact of reduced real estate transfer taxes. I’m using micro data from Germany to gain detailed insights and employ a life-cycle model featuring heterogeneous agents to scrutinize consumption patterns across different life stages.\n\nPoster"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Research",
+    "section": "",
+    "text": "The Real Estate Transfer Tax and Financial Constraints\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  }
+]

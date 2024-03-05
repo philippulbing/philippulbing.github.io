@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  google-analytics: "G-EGYNETVBZE"
+  title: "Philipp Ulbing"
+  search: true
+  favicon: "siegel.svg"
+  navbar:
+    background: primary
+    search: true
+  page-footer:
+    background: light
+    left:
+      - "Copyright 2024, Philipp Ulbing"
+        
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    fontsize: 1.0em
+    
+    grid: 
+      body-width: 2000px
+      sidebar-width: 200px
+      margin-width: 200px
+
+editor: visual
+

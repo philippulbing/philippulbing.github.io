@@ -1,0 +1,93 @@
+---
+image: UlbingPhilipp_OMDS2.jpg
+about:
+  template: trestles
+  image-shape: round
+  image-width: 20em
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:philipp.ulbing@univie.ac.at
+    - icon: CV
+      text: CV
+      href: CV/CV_Ulbing Philipp.pdf
+
+---
+
+# Welcome to my personal website!
+
+I am a  fourth year PhD student at the [Oskar Morgenstern Doctoral School](https://oskar-morgenstern-doctoral-school.univie.ac.at/) at the University of Vienna.  Before coming to Vienna, I completed the [Advanced Studies Program (ASP)](https://www.ifw-kiel.de/institute/advanced-studies-program/) at the Institute for the World Economy (IfW) in Kiel.  I received my Master's degree from the Karl-Franzens University of Graz.
+
+In my research, I am mainly interested in topics at the intersection of Macroeconomics and Monetary Economics, especially issues related to negative interest rates, the transmission of monetary policy and CBDC. 
+
+------------------------------------------------------------------------
+
+## Education
+
+- PhD in Economics, University of Vienna (Oskar Morgenstern Doctoral School) \| 2020 - present
+
+- Advanced Studies Program (ASP) at the Institute for the World Economy (IfW) \| 2019 - 2020
+
+- MSc. in Economics, Karl-Franzens University of Graz \| 2017 - 2019
+
+- B.A. in Economics, Karl-Franzens University of Graz \| 2013 - 2017
+
+------------------------------------------------------------------------
+
+## Research
+
+**Working Papers**
+
+- "The Zero Lower Bound on Household Deposit Rates: Not As Binding As We Thought"
+
+  [Preliminary Draft](Not as binding as we thought_Ulbing Philipp.pdf) \| <a data-bs-toggle="collapse" data-bs-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample" style="cursor: pointer; text-decoration: underline; color: #18BC9C;">
+  Abstract
+</a> <br>
+<div class="collapse" id="collapseExample">
+  <div class="card card-body no-border">
+    I present novel evidence on the prevalence of negative household deposit rates, which challenges the notion of their perceived zero lower bound. Between May 2019 and April 2022, a total of 483 German banks introduced negative interest rates on household deposits. I study the effects of the adoption of these negative rates on banks' balance sheet positions and their role for the transmission of monetary policy by conducting a staggered difference-in-differences analysis. For this purpose, I compile a novel dataset, which is merged with official data from the Research Data and Service Centre of the German Bundesbank. Household deposits are reduced by up to 3% within twelve months after the introduction of negative household deposit rates. Additionally, credit creation is positively affected, which serves as evidence for an operative bank lending channel of monetary policy under negative household deposit rates. Thus far, this channel has been regarded as muted due to the perceived zero lower bound of household deposit rates. </div>
+</div>
+
+**Work in Progress**
+
+- "Optimal Tiered Reserve Remuneration"
+
+  [Poster](Poster_Ulbing_OptimalTiered.pdf)
+  
+- "The Demand for CBDC and the Role of the Government" (with [Paul Pichler](https://sites.google.com/view/papiecon)) 
+
+------------------------------------------------------------------------
+
+## Teaching
+
+**University of Vienna **
+
+-   Lecturer: UE Applied Macroeconomics (MA) \| 2021 - 2023
+
+**University of Graz **
+
+-   Teaching Assistant: Introduction to Economics (BA) \| 2015 - 2019
+
+------------------------------------------------------------------------
+
+## Contact
+
+University of Vienna
+
+Oskar Morgenstern Doctorate School
+
+Oskar-Morgenstern-Platz 1
+
+1090 Vienna
+
+Austria
+
+philipp.ulbing@univie.ac.at
+    
+    
+    
+    
+    
+    
+    
+    
