@@ -10,7 +10,7 @@ about:
       href: mailto:philipp.ulbing@univie.ac.at
     - icon: CV
       text: CV
-      href: CV/CV_Ulbing Philipp.pdf{target="_blank"}
+      href: CV/CV_Ulbing Philipp.pdf
 
 ---
 
