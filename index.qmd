@@ -11,12 +11,12 @@ about:
     - icon: CV
       text: CV
       href: CV/CV_Ulbing Philipp.pdf
-
+      target: _blank
 ---
 
 # Welcome to my personal website!
 
-I am a  fourth year PhD student at the [Oskar Morgenstern Doctoral School](https://oskar-morgenstern-doctoral-school.univie.ac.at/){:target="_blank" rel="noopener"} at the University of Vienna.  Before coming to Vienna, I completed the [Advanced Studies Program (ASP)](https://www.ifw-kiel.de/institute/advanced-studies-program/){:target="_blank" rel="noopener"} at the Institute for the World Economy (IfW) in Kiel.  I received my Master's degree from the Karl-Franzens University of Graz.
+I am a  fourth year PhD student at the [Oskar Morgenstern Doctoral School](https://oskar-morgenstern-doctoral-school.univie.ac.at/){target="_blank"} at the University of Vienna.  Before coming to Vienna, I completed the [Advanced Studies Program (ASP)](https://www.ifw-kiel.de/institute/advanced-studies-program/){target="_blank"} at the Institute for the World Economy (IfW) in Kiel.  I received my Master's degree from the Karl-Franzens University of Graz.
 
 In my research, I am mainly interested in topics at the intersection of Macroeconomics and Monetary Economics, especially issues related to negative interest rates, the transmission of monetary policy and CBDC. 
 
@@ -40,7 +40,7 @@ In my research, I am mainly interested in topics at the intersection of Macroeco
 
 - "The Zero Lower Bound on Household Deposit Rates: Not As Binding As We Thought"
 
-  [Preliminary Draft](Not as binding as we thought_Ulbing Philipp.pdf){:target="_blank" rel="noopener"} \| <a data-bs-toggle="collapse" data-bs-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample" style="cursor: pointer; text-decoration: underline; color: #18BC9C;">
+  [Preliminary Draft](Not as binding as we thought_Ulbing Philipp.pdf){target="_blank"} \| <a data-bs-toggle="collapse" data-bs-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample" style="cursor: pointer; text-decoration: underline; color: #18BC9C;">
   Abstract
 </a> <br>
 <div class="collapse" id="collapseExample">
@@ -52,9 +52,9 @@ In my research, I am mainly interested in topics at the intersection of Macroeco
 
 - "Optimal Tiered Reserve Remuneration"
 
-  [Poster](Poster_Ulbing_OptimalTiered.pdf){:target="_blank" rel="noopener"}
+  [Poster](Poster_Ulbing_OptimalTiered.pdf){target="_blank"}
   
-- "The Demand for CBDC and the Role of the Government" (with [Paul Pichler](https://sites.google.com/view/papiecon){:target="_blank" rel="noopener"}) 
+- "The Demand for CBDC and the Role of the Government" (with [Paul Pichler](https://sites.google.com/view/papiecon){target="_blank"}) 
 
 ------------------------------------------------------------------------
 
