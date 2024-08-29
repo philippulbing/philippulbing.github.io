@@ -5,11 +5,11 @@ project:
 website:
   google-analytics: "G-EGYNETVBZE"
   title: "Philipp Ulbing"
-  search: true
+  search: false
   favicon: "siegel.svg"
   navbar:
     background: primary
-    search: true
+    search: false
   page-footer:
     background: light
     left:

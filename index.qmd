@@ -8,9 +8,6 @@ about:
     - icon: envelope
       text: Email
       href: mailto:philipp.ulbing@univie.ac.at
-    - icon: CV
-      text: CV
-      href: CV/CV_Ulbing Philipp.pdf
       target: _blank
 ---
 
@@ -18,7 +15,9 @@ about:
 
 I am a  fourth year PhD student at the [Oskar Morgenstern Doctoral School](https://oskar-morgenstern-doctoral-school.univie.ac.at/){target="_blank"} at the University of Vienna.  Before coming to Vienna, I completed the [Advanced Studies Program (ASP)](https://www.ifw-kiel.de/institute/advanced-studies-program/){target="_blank"} at the Institute for the World Economy (IfW) in Kiel.  I received my Master's degree from the Karl-Franzens University of Graz.
 
-In my research, I am mainly interested in topics at the intersection of Macroeconomics and Monetary Economics, especially issues related to negative interest rates, the transmission of monetary policy and CBDC. 
+In my research, I am mainly interested in topics at the intersection of Macroeconomics and Monetary Economics, especially issues related to negative interest rates, the transmission of monetary policy and CBDC.
+
+You can find my CV [here](CV_Ulbing Philipp.pdf){target="_blank"}.
 
 ------------------------------------------------------------------------
 
