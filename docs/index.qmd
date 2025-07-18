@@ -1,0 +1,96 @@
+---
+image: UlbingPhilipp_OMDS2.jpg
+about:
+  template: trestles
+  image-shape: round
+  image-width: 20em
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:philipp.ulbing@univie.ac.at
+      target: _blank
+---
+
+# Welcome to my personal website!
+
+I am a  fourth year PhD student at the [Oskar Morgenstern Doctoral School](https://oskar-morgenstern-doctoral-school.univie.ac.at/){target="_blank"} at the University of Vienna.  Before coming to Vienna, I completed the [Advanced Studies Program (ASP)](https://www.ifw-kiel.de/institute/advanced-studies-program/){target="_blank"} at the Institute for the World Economy (IfW) in Kiel.  I received my Master's degree from the Karl-Franzens University of Graz.
+
+In my research, I am mainly interested in topics at the intersection of Macroeconomics and Monetary Economics, especially issues related to negative interest rates, the transmission of monetary policy and CBDC.
+
+You can find my CV [here](CV_Ulbing Philipp.pdf){target="_blank"}.
+
+------------------------------------------------------------------------
+
+## Education
+
+- PhD in Economics, University of Vienna (Oskar Morgenstern Doctoral School) \| 2020 - present
+
+- Advanced Studies Program (ASP) at the Institute for the World Economy (IfW) \| 2019 - 2020
+
+- MSc. in Economics, Karl-Franzens University of Graz \| 2017 - 2019
+
+- B.A. in Economics, Karl-Franzens University of Graz \| 2013 - 2017
+
+------------------------------------------------------------------------
+
+## Research
+
+**Working Papers**
+
+- "Bank Balance Sheets and Monetary Policy Transmission: The Impact of Negative Interest Rates on Household Deposits"
+
+  [Latest Version](Negative HH Deposit Rates_Ulbing_compressed.pdf){target="_blank"} \| <a data-bs-toggle="collapse" data-bs-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample" style="cursor: pointer; text-decoration: underline; color: #18BC9C;">
+  Abstract
+</a> <br>
+<div class="collapse" id="collapseExample">
+  <div class="card card-body no-border">
+    How do negative interest rates on household deposits impact bank balance sheets and the transmission of monetary policy? To explore this question, I perform a staggered differencein-difference analysis using novel, self-collected data on household deposit rates from German banks and bank balance sheet data. I find that over 30% of German banks implemented a negative household deposit rate of -0.5% between May 2019 and April 2022. These banks experienced a 3% reduction of household deposits within twelve months, despite largely generous exemption limits. Banks that adopted negative rates significantly increased their lending activity. This demonstrates that the bank lending channel of monetary policy remains active under negative policy rates. </div>
+</div>
+
+**Work in Progress**
+  
+- "Temptation, CBDC Adoption and Bank Profits" (with [Brigitte Hochmuth](https://www.brigittehochmuth.net/) and [Paul Pichler](https://sites.google.com/view/papiecon){target="_blank"}) 
+
+- "Optimal Tiered Reserve Remuneration"
+
+  [Poster](Poster_Ulbing_OptimalTiered.pdf){target="_blank"}
+
+- "Transmission of Monetary Policy in an Abundant Reserves Environment"
+
+  [Poster](Poster_Ulbing_AbundantRes.pdf){target="_blank"}  
+  
+------------------------------------------------------------------------
+
+## Teaching
+
+**University of Vienna **
+
+-   Lecturer: UE Applied Macroeconomics (MA) \| 2021 - 2023
+
+**University of Graz **
+
+-   Teaching Assistant: Introduction to Economics (BA) \| 2015 - 2019
+
+------------------------------------------------------------------------
+
+## Contact
+
+University of Vienna
+
+Oskar Morgenstern Doctorate School
+
+Oskar-Morgenstern-Platz 1
+
+1090 Vienna
+
+Austria
+
+philipp.ulbing@univie.ac.at
+    
+    
+    
+    
+    
+    
+    
+    
